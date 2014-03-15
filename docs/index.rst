@@ -68,7 +68,7 @@ If you ask for more features *I will probably say no!* Just fork xo yourself.
 
 ====== ===== ====== ===== ====== ===== ====== =====
 vi     2     vim    3     nano   3     pico   4
-**xo** **2** cat    3     less   4     emacs  5
+**xo** **2** cat    3     less   3     emacs  5
 ====== ===== ====== ===== ====== ===== ====== =====
 
 -----------
